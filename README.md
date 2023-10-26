@@ -1,4 +1,4 @@
-<img src="https://www.wildnettechnologies.com/wp-content/uploads/2019/05/Web-application-development1424x752-1200x634.jpg">
+
 <h1 align="center">Hi 👋, I'm Kemal</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
